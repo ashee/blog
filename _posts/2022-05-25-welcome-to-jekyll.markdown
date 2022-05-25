@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Online resume and blog hosting on Github pages"
+title:  "Free online resume hosting"
 date:   2022-05-25 15:58:55 -0400
 categories: gh-page gh jekyll
 ---
